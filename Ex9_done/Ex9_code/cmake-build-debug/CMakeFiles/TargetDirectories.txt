@@ -1,0 +1,3 @@
+C:/Users/asus.VENIK/CLionProjects/Ex4-6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/asus.VENIK/CLionProjects/Ex4-6/cmake-build-debug/CMakeFiles/Ex4_6.dir
+C:/Users/asus.VENIK/CLionProjects/Ex4-6/cmake-build-debug/CMakeFiles/edit_cache.dir
